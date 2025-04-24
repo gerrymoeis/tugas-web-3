@@ -2,6 +2,17 @@
 
 Sistem login sederhana dengan fitur registrasi, autentikasi, dan manajemen session menggunakan CodeIgniter 4.
 
+## Dosen Pengampu:
+Asmunin, S.Kom., M.Kom.
+ 
+## Disusun Oleh:
+Gerry Moeis M.D.P – 23091397164
+
+Kelas: 2023E
+Prodi: D4 Manajemen Informatika
+Fakultas: Vokasi
+
+
 ## Fitur
 - Registrasi user dengan validasi
 - Login dengan enkripsi password (BCrypt)
